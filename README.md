@@ -32,14 +32,13 @@ npm install
 ```sh
 npm run dev
 ```
-## Noticed
-
-```sh
-Sometimes, Vpn requires to call weather api.
-```
 
 ### Type-Check, Compile and Minify for Production
 
 ```sh
 npm run build
 ```
+
+## Noticed
+
+Sometimes, Vpn requires to call weather api.
